@@ -1,6 +1,4 @@
-# Homework 2
 
-## Assignment Details
 
 In this assignment you will be required to
 * Create a dataset consisting of at least 4 classes
